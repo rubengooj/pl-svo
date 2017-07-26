@@ -1,0 +1,8 @@
+*/bin/*
+*/lib/*
+/build/*
+/3rdparty/line_descriptor/build/*
+svo/datasets/*
+*~*
+*CMakeLists.txt.user
+*.bag*
